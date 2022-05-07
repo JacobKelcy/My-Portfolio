@@ -1,0 +1,44 @@
+* {
+  font-family: Roboto, sans-serif;
+  margin: 0%;
+  padding: 0%;
+}
+
+header {
+  font-size: 30px;
+  display: flex;
+  min-width: 1645px;
+  flex-direction: row;
+  align-items: top;
+  justify-content: space-between;
+  height: 400px;
+  background-image: url("http://www.findingmidnight.com/images/Dallas-Rooftopping-City-View-2.jpg");
+  background-repeat: no-repeat;
+
+  background-position: center;
+  background-size: cover;
+  background-position-y: -200px;
+  color: aliceblue;
+}
+
+.name {
+  padding: 15px;
+  margin: 10px;
+}
+
+.headerrightSide {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: top;
+  padding: 15px;
+  margin: 10px;
+}
+
+.Headerprojects {
+  margin-right: 30px;
+}
+
+.Headercontacts {
+  margin-left: 10px;
+}

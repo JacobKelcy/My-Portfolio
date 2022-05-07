@@ -1,0 +1,29 @@
+.technologies-bar__image {
+  height: 3.5rem;
+
+  max-width: 100px;
+}
+
+.technologies {
+  min-width: 1599px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: nowrap;
+  height: 100%;
+  box-shadow: 0 1rem 3rem rgb(0 0 0 / 10%);
+  padding: 1rem;
+  justify-items: center;
+}
+
+.IconContainer {
+  flex-direction: row;
+  width: calc(100% - 8rem);
+  max-width: 120rem;
+  margin: 0 auto;
+}
+
+img {
+  margin-right: 1.5rem;
+  margin-left: 1.5rem;
+  border-style: none;
+}
