@@ -1,6 +1,6 @@
 {
-  "homepage": "http://JacobKelcy.github.io/My-Portfolio/",
-  "name": "portfolio-app",
+  "homepage": "http://JacobKelcy.github.io/My-Portfolio",
+  "name": "portport",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
