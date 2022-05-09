@@ -75,19 +75,19 @@ export default class Projects extends React.Component {
                 <ul className="project__technologies__list project__technologies__list--no-grid">
                   <li>
                     <i className="fas fa-dot-circle"></i>
-                    <p>Score-Tracking</p>
+                    <p>Sort Item By Category</p>
                   </li>
                   <li>
                     <i className="fas fa-dot-circle"></i>
-                    <p>Snake-Growth</p>
+                    <p>React Routes</p>
                   </li>
                   <li>
                     <i className="fas fa-dot-circle"></i>
-                    <p>Game-Over</p>
+                    <p>Add/Remove Item From Cart Function</p>
                   </li>
                   <li>
                     <i className="fas fa-dot-circle"></i>
-                    <p>Key Controlled Game</p>
+                    <p>Item Count In Cart Icon</p>
                   </li>
                 </ul>
               </div>
