@@ -98,31 +98,28 @@ export default class Projects extends React.Component {
                 <p>
                   This is a project I did while learning about fetching API's
                   and Redux. I used React Hooks to Route all of the components
-                  together properly, Fetched the data from the api to display
-                  it, and spent alot of time making the website compatible for
-                  Desktop and Mobile devices using media query's.
+                  together, Fetched data from the api to display it, and made
+                  the website compatible for Desktop and Mobile devices using
+                  media queries.
                 </p>
               </div>
               <div className="project__detail-section">
                 <p className="small-section-title">Project Difficulties</p>
                 <p>
-                  The only difficulties I had involved Redux. There were a few
-                  updated dependencies I had to learn about and install when
-                  using Redux.
+                  The only difficulties I had involved Redux. I had to spend a
+                  lot of time learning about and installing updated
+                  dependencies.
                 </p>
               </div>
               <div className="project__detail-section">
                 <p className="small-section-title">My Solution</p>
                 <p>
                   I made sure to research each Redux function so I could
-                  accurately use them. When I had trouble understanding the
-                  particular functions I were using I would search the internet
-                  to learn the syntax then write the function down on a sticky
-                  note so I can go back and study it until I fully understand
-                  it. Other than the few Redux functions I had no issues with
-                  anything else. Using React Hooks, styling, and inputing the
-                  API's data into the JSX were by far the most enjoyable parts
-                  of this project.
+                  accurately use them. When I had trouble understanding these
+                  functions I would search the internet to learn the syntax and
+                  meaning behind the code I was writing. Other than that I had
+                  no issues with anything else. Using React Hooks, styling, and
+                  inputing the API's data into the JSX was easy going.
                 </p>
               </div>
             </div>
@@ -185,8 +182,8 @@ export default class Projects extends React.Component {
               <div className="project__detail-section">
                 <p className="small-section-title">My Role</p>
                 <p>
-                  Created the tables for the data-base and wrote JavaScript code
-                  to interact with that database to pass test specs.
+                  Created tables for the data-base and wrote JavaScript code to
+                  pass test specs.
                 </p>
               </div>
             </div>
@@ -264,13 +261,13 @@ export default class Projects extends React.Component {
                 <p className="small-section-title">My Role</p>
                 <p>
                   In this project, I worked extensively on learning to use
-                  <span className="highlight"> HTML canvas</span>. to create the
+                  <span className="highlight"> HTML Canvas</span> to create the
                   game board and snake. Differentiating the snakes body from the
-                  snakes head was done by using .push to paint each tile behind
-                  the snake heads X and Y coordinate then using .shift to cut
-                  off the snakes tail as it moves forward to make the the entire
-                  snakes body look like it's moving. When the snake eats an
-                  apple the snakes tail grows. To make that work I made a
+                  snakes head was done by using the .push method to paint each
+                  tile behind the snake heads X and Y coordinate then using the
+                  .shift method to cut off the snakes tail as it moves forward
+                  to make the the entire snakes body look like it's moving. When
+                  the snake eats an apple the snakes tail grows. I made a
                   function to check for a collision between the apple and snake
                   head. If the collision function is true it will add a painted
                   tile to the snakes tail.
@@ -279,9 +276,9 @@ export default class Projects extends React.Component {
               <div className="project__detail-section">
                 <p className="small-section-title">Project Difficulties</p>
                 <p>
-                  Learning to use canvas with javascript functions was hard to
-                  get the hang of but in the end after alot of research I was
-                  able to figure it out and make the game fully functional.
+                  Using canvas with javascript functions took some time of
+                  studying to understand. In the end I was able to figure it out
+                  and make the game completely functional.
                 </p>
               </div>
             </div>
