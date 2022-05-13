@@ -24,7 +24,7 @@ export default class Projects extends React.Component {
                 </div>
                 <div className="project__display__actions">
                   <a
-                    href="https://github.com/string-cheese-fsa/spray-r"
+                    href="https://github.com/JacobKelcy/ecommerce-site-api"
                     className="link"
                   >
                     <i className="fas fa-code-branch"></i>
@@ -138,7 +138,7 @@ export default class Projects extends React.Component {
                 </div>
                 <div className="project__display__actions">
                   <a
-                    href="https://github.com/string-cheese-fsa/spray-r"
+                    href="https://github.com/JacobKelcy/UNIV_FitnessTrackr_Starter"
                     className="link"
                   >
                     <i className="fas fa-code-branch"></i>
@@ -202,7 +202,7 @@ export default class Projects extends React.Component {
                 </div>
                 <div className="project__display__actions">
                   <a
-                    href="https://github.com/string-cheese-fsa/spray-r"
+                    href="https://github.com/JacobKelcy/the-snake-game"
                     className="link"
                   >
                     <i className="fas fa-code-branch"></i>
